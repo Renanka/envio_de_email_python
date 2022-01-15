@@ -6,7 +6,7 @@ import pyautogui
 import webbrowser as web
 from time import sleep
 import pyperclip
-from gerar_cpf import gerar_cpf
+from projeto.gerar_cpf import gerar_cpf
 
 # Define o tempo da pause entre cada operação do pyautogui.
 pyautogui.PAUSE = 1
